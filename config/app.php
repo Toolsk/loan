@@ -61,7 +61,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'pt',
     /*
     |--------------------------------------------------------------------------
     | Application Fallback Locale
@@ -73,7 +73,7 @@ return [
     |
     */
 
-    'fallback_locale' => 'en',
+    'fallback_locale' => 'pt',
     /*
     |--------------------------------------------------------------------------
     | Encryption Key

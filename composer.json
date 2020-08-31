@@ -17,7 +17,6 @@
     "guzzlehttp/guzzle": "~5.3|~6.0",
     "waavi/translation": "2.2.x",
     "elibyy/tcpdf-laravel": "5.4.*",
-    "dropbox/dropbox-sdk": "1.1.*",
     "stripe/stripe-php": "^5.2",
     "spatie/laravel-backup":"^3.0.0"
   },
