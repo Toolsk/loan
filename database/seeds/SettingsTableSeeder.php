@@ -26,7 +26,7 @@ class SettingsTableSeeder extends Seeder
             ],
             [
                 'setting_key' => 'company_website',
-                'setting_value' => 'http://www.webstudio.co.zw',
+                'setting_value' => 'http://www.admin.co.zw',
             ],
             [
                 'setting_key' => 'company_country',
@@ -50,7 +50,7 @@ class SettingsTableSeeder extends Seeder
             ],
             [
                 'setting_key' => 'company_email',
-                'setting_value' => 'info@webstudio.co.zw',
+                'setting_value' => 'info@admin.co.zw',
             ],
             [
                 'setting_key' => 'currency_symbol',

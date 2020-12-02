@@ -12,7 +12,7 @@ class UsersTableSeeder extends Seeder
     public function run()
     {
         $credentials = array(
-            "email" => 'admin@webstudio.co.zw',
+            "email" => 'admin@admin.com',
             "password" => 'admin123',
             "first_name" => 'Admin',
             "last_name" => 'Admin',
