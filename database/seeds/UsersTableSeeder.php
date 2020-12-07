@@ -12,8 +12,7 @@ class UsersTableSeeder extends Seeder
     public function run()
     {
         $credentials = array(
-            "email" => 'admin@admin.com',
-            "password" => 'admin123',
+            "email" => 'valdimiroeinstein@gmail.com',
             "first_name" => 'Admin',
             "last_name" => 'Admin',
         );
